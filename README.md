@@ -24,8 +24,7 @@
 <div align="center">
 
 | Эмулятор Pixel 6 Pro |
-|:---:|:---:|:---:|
-| ![Main](./demonstration/stpApp.gif) |
+| <img src="./demonstration/stpApp.gif" width="200" > |
 
 </div>
 
