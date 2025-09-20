@@ -23,7 +23,7 @@
 
 <div align="center">
 
-| Эмулятор Pixel 6 Pro | "\n"
+| Эмулятор Pixel 6 Pro | 
 
 | <img src="./demonstration/stpApp.gif" width="400" > |
 
